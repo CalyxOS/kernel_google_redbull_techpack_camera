@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/kernel_google_redbull_techpack_camera
+defaultbranch=android14
